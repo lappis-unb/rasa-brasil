@@ -19,12 +19,20 @@ Se você fez ou conhece alguma atividade que se encaixe nos tópicos acima, nos 
 
 ## Uso
 
+1. Edite o arquivo timeline.md seguindo o padrão.
+
+2. Execute os comandos abaixo:
+
 ```sh
 # Instale o mdline
 npm install mdline
 # Depois crie a timeline
 npx mdline ./timeline.md -o ./docs/index.html
 ```
+
+3. Depois da atualização for aceita na branch `main`, a timeline será automaticamente atualizada no seguinte link:
+
+[timeline](https://lappis-unb.github.io/rasa-brasil/)
 
 ## Referências
 
