@@ -16,3 +16,16 @@ Atividades como:
 * Outras atividades
 
 Se você fez ou conhece alguma atividade que se encaixe nos tópicos acima, nos avise para entrar na listagem.
+
+## Uso
+
+```sh
+# Instale o mdline
+npm install mdline
+# Depois crie a timeline
+npx mdline ./timeline.md -o ./docs/index.html
+```
+
+## Referências
+
+1. [mdline](https://github.com/azu/mdline)
